@@ -1,2 +1,2 @@
 # GithubProject
-My sample code came from Learn Computer Today
+The sample code came from Learn Computer Today
